@@ -1,18 +1,10 @@
-# Build and Deploy a Modern Next.js 13 Application | React, Next JS 13, TypeScript, Tailwind CSS
-![Car Showcase](https://i.ibb.co/GxvFJDZ/Thumbnail.png)
+Cars showcase app using React and Next. 
 
-## Introduction
-The demand for Next.js 13 applications peaked! Now is the perfect time to build a state-of-the-art modern application that leverages all of the latest and greatest of what Next 13 has to offer, leveraging features such as server-side rendering and the app router. 
- 
-Alongside building this application, you'll also learn how to:
-- Use Next.js 13 App Router and Server Side Rendering
-- Implement Advanced Search Functionality
-- Create Filtering Capabilities
-- Optimize Metadata and SEO
-- Create custom filter, combobox, and modal elements
-- Maintain a well-organized file and folder structure.
-- Embrace the principles of writing clean code.
+I use Rapis IPA. https://rapidapi.com/hub/?utm_source=youtube.com%2FJavaScriptMastery&utm_medium=referral&utm_campaign=DevRel
 
-## Want to land your dream programming job in 3 - 6 months?
-⭐ JSM Masterclass Experience - https://jsmastery.pro/masterclass
-Become a Software Engineer. Guaranteed.
+Exactly RapidAPI Cars API.
+
+![showcars1](https://github.com/JaroslawMajcherczyk/Weather-app/assets/74450237/0801fb52-4646-4ac3-9169-9b5777db5b17)
+![showcars2](https://github.com/JaroslawMajcherczyk/Weather-app/assets/74450237/3e1ab8e3-d39b-4439-aea1-934a728031dd)
+
+The application was created for learning purposes Next.js 13, app router and server side rendering, implement advanced search functionality. 
